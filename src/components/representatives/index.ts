@@ -1,0 +1,1 @@
+export { UnderstandingRepresentatives } from "./UnderstandingContent";
